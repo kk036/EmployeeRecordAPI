@@ -1,0 +1,6 @@
+namespace EmployeeRecord.API.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
